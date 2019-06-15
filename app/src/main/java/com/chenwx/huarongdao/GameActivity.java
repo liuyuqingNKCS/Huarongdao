@@ -35,7 +35,7 @@ public class GameActivity extends AppCompatActivity {
 
     private static GameActivity gameActivity;
 
-    private static final long START_TIME_IN_MILLIS = 10000;
+    private static final long START_TIME_IN_MILLIS = 300000;
     private TextView mTextViewCountDown;
 //    private  mWaveView;
 
